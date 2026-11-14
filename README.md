@@ -20,7 +20,7 @@ Download versi terbaru:
 
 ## Version
 
-Current Version: v1.0.0
+Current Version: v1.0.1
 
 ## Changelog
 
